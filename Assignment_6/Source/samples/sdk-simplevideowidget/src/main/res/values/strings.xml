@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="title">Aquarium</string>
+  <string name="subtitle"> vivarium where animals are kept and displayed</string>
+  <string name="paragraph1">An aquarium (plural: aquariums or aquaria) is a vivarium of any size
+      \nhaving at least one transparent side in which water-dwelling plants or animals are kept and displayed.
+\n\nThe 360 video below shows diving exploration of kelp forest aquarium.
+  </string>
+
+  <string name="paragraph2">Fishkeepers use aquaria to keep fish, invertebrates, amphibians,
+      \naquatic reptiles such as turtles, and aquatic plants. The term, coined by English naturalist
+      \nPhilip Henry Gosse, combines the Latin root aqua, meaning water, with the suffix -arium,
+      \nmeaning "a place for relating to".[1]
+
+\n\nThe aquarium principle was fully developed in 1850 by the chemist Robert Warington, who explained
+      \nthat plants added to water in a container would give off enough oxygen to support animals,
+      \nso long as their numbers do not grow too large.[2] The aquarium craze was launched in early
+      \nVictorian England by Gosse, who created and stocked the first public aquarium at the London
+      \nZoo in 1853, and published the first manual, The Aquarium: An Unveiling of the Wonders of
+      \nthe Deep Sea in 1854.[2]
+
+\n\nDiving In Aquarium\' An aquarist owns fish or maintains an aquarium, typically constructed of
+      glass or high-strength acrylic. Cuboid aquaria are also known as fish tanks or simply tanks,
+      while bowl-shaped aquaria are also known as fish bowls. Size can range from a small glass bowl
+      to immense public aquaria. Specialized equipment maintains appropriate water quality and other
+      characteristics suitable for the aquarium's residents.
+  </string>
+
+  <string name="source">Source &lt;a href="https://en.wikipedia.org/wiki/Aquarium;/a></string>
+</resources>
