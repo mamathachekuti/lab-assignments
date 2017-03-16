@@ -15,3 +15,5 @@ Lab assignment 5:https://github.com/mamathachekuti/lab-assignments/wiki/Lab-Assi
 Lab assignment 6:https://github.com/mamathachekuti/lab-assignments/wiki/Lab-assignment-6
 
 Lab assignment 7:https://github.com/mamathachekuti/lab-assignments/wiki/Lab-assignment-7
+
+Lab assignment 8:https://github.com/mamathachekuti/lab-assignments/wiki/Lab-assignment-8
